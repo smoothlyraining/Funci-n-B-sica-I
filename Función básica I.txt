@@ -12,7 +12,7 @@ console.log(a())
 
 ------------------
 
-Predicci髇: 35
+Predicci贸n: 35
 Output: 35
 
 _________________________
@@ -24,7 +24,7 @@ console.log(a()+a());
 
 -------------------
 
-Predicci髇: 8
+Predicci贸n: 8
 Output: 8
 
 __________________________
@@ -36,20 +36,20 @@ console.log(a(2)+a(4));
 
 -------------------
 
-Predicci髇: 6
+Predicci贸n: 6
 Output: 6
 
 ___________________________
 
 function a(b){
-牋牋console.log(b);
+聽聽聽聽console.log(b);
     return b*3;
 }
 console.log(a(3));
 
 -------------------
 
-Predicci髇: 3, 9
+Predicci贸n: 3, 9
 Output: 3, 9
 
 ___________________________
@@ -62,7 +62,7 @@ console.log(a(10));
 
 -------------------
 
-Predicci髇: 40
+Predicci贸n: 40
 Output: 40
 
 ___________________________
@@ -71,7 +71,7 @@ function a(b){
     if(b<10) {
         return 2;
     }
-牋牋else     {
+聽聽聽聽else     {
         return 4;
     }
     console.log(b);
@@ -80,7 +80,7 @@ console.log(a(15));
 
 ---------------------
 
-Predicci髇: 4
+Predicci贸n: 4
 Output: 4
 
 _____________________________
@@ -93,7 +93,7 @@ console.log( a(3,10) );
 
 ---------------------
 
-Predicci髇: 10,3,30
+Predicci贸n: 10,3,30
 Output: 10, 3
 	30
 
@@ -110,7 +110,7 @@ console.log(4);
 
 ---------------------
 
-Predicci髇: 9
+Predicci贸n: 9
 	    9
 	    9
 	    9
@@ -129,7 +129,7 @@ a();
 
 --------------------
 
-Predicci髇: 11
+Predicci贸n: 11
 Output: 2,5,8,11
 
 _____________________________
@@ -145,7 +145,7 @@ console.log(a(0,10));
 
 ---------------------
 
-Predicci髇: 0
+Predicci贸n: 0
 	    1
 	    2
 	    3
@@ -201,7 +201,7 @@ function a(){
 
 ----------------
 
-Predicci髇: No hay output
+Predicci贸n: No hay output
 Output: No hay output
 
 _________________________________
@@ -217,7 +217,7 @@ function a(){
 
 -----------------
 
-Predicci髇: No hay output
+Predicci贸n: No hay output
 Output: No hay output
 
 __________________________________
@@ -231,7 +231,7 @@ console.log(z);
 
 -------------------
 
-Predicci髇: 10
+Predicci贸n: 10
 Output: 10
 
 _________________________________
@@ -246,7 +246,7 @@ console.log(z);
 
 ---------------------
 
-Predicci髇: 15
+Predicci贸n: 15
 	    10
 
 Output: 15
@@ -265,7 +265,7 @@ console.log(z);
 
 -------------------------
 
-Predicci髇: 15
+Predicci贸n: 15
 	    15
 
 Output: 15
